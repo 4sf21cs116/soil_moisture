@@ -1,0 +1,19 @@
+Crop,Min Moisture,Max Moisture
+Rice,80,100
+Wheat,60,80
+Maize,70,90
+Sugarcane,80,100
+Potato,40,60
+Onion,30,50
+Tomato,40,60
+Mango,80,100
+Banana,80,100
+Oilseeds,40,60
+Soybean,70,90
+Sugarcane,80,100
+Pulses,40,60
+Cotton,60,80
+Tea,70,90
+Coffee,70,90
+Cactus,0,20
+Succulents,0,20
