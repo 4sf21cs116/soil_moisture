@@ -11,3 +11,4 @@ This project focuses on detecting soil moisture levels using a soil moisture sen
 # web page -moisture Analysis
 ![WhatsApp Image 2024-05-18 at 11 18 49 AM](https://github.com/4sf21cs116/soil_moisture/assets/135849003/e22ee650-118d-4890-a7d0-41886ea2b30e)
 
+To run the web page, you need to install the requirements specified in requirements.txt.
